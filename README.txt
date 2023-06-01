@@ -19,4 +19,4 @@ By leveraging sentiment analysis models, valuable insights can be extracted from
 
 This project, from data collection to coding to deciding on what model to use, was developed by Muhammed Emir Tayız.
 
-The project is also available on GitHub. 
+The project is also available on GitHub: https://github.com/metayiz/sentiment_analysis
